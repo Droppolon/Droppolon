@@ -1,4 +1,9 @@
 ##About Me
+no
+
+no
+
+
 
 from Mdc.World import Droppolon
 

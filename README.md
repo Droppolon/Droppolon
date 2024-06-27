@@ -1,16 +1,23 @@
-## Hi there 👋
+##About Me
 
-<!--
-**Droppolon/Droppolon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+from Mdc.World import Droppolon
 
-Here are some ideas to get you started:
+class Droppolon(Mohammad):
+    full_name = "Mohammad"
+    age = 15
+    education = "Middle School Student"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    programming_lang = ["python"]
+
+    Favorites = [
+        "linux",
+        "programming", 
+        "learn", 
+        "writing",
+        "music",
+    ]
+    Learning = [
+        "Full Python",
+        "Databases",
+    ]
+    working_on = ["improving my skills"]

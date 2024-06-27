@@ -12,6 +12,8 @@ Hello world..! 🌍
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://files.virgool.io/upload/users/196572/posts/yaj73eg5mmdr/9js8fwyzgn8k.png" alt="Pyrogram" width="120" height="30">
+![Telegram API](https://img.shields.io/badge/Telegram%20API-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
 
 ## Projects 💻
 - 🚀 Currently, there are no ongoing projects. Stay tuned for exciting updates soon!
@@ -24,6 +26,7 @@ Hello world..! 🌍
 ## Stats 📊
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Droppolon&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Droppolon&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=Droppolon&color=blue)
 
 ---
 
@@ -54,4 +57,3 @@ class Droppolon(Mohammad):
         "Databases",
     ]
     working_on = ["Improving my skills"]
-
